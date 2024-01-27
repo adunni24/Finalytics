@@ -1,3 +1,3 @@
 # Finalytics
 Fintech Web application 
-that helps analyze finances and helps you make informed financial decisions that suit your lifestyle.
+that helps you analyze finances and make informed financial decisions to suit your lifestyle.
