@@ -1,0 +1,2 @@
+# Finalytics
+Fintech Web application 
